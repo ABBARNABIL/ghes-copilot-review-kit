@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+review-model.json
+review-payload.json
